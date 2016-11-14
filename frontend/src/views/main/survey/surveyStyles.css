@@ -1,0 +1,19 @@
+.container {
+	flex-direction: column;
+	display: flex;
+}
+.questionContainer {
+	flex: 1;
+	padding: 10px;
+}
+
+.answerContainer {
+	flex: 1;
+	padding: 10px;
+}
+
+.btnContainer {
+	flex: 1;
+	flex-direction: row;
+	align-items: center;
+}
